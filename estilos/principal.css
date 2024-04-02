@@ -29,6 +29,10 @@ main > p{
     text-align: justify;
 }
 
+main{
+    height: 571px;
+}
+
 #menu > ul > li{
     list-style-type: none;
     display: inline-block;
@@ -47,4 +51,19 @@ main > p{
 
 main > p{
     line-height: 30px;
+}
+
+footer{
+    background-color: #9C89B8;
+    padding: 5px;
+    font-size: 1.2em;
+    text-align: center;
+   
+}
+
+footer a{
+    color: white;
+    text-decoration: none;
+    text-align: center;
+    font: bolder;
 }
